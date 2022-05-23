@@ -20,3 +20,7 @@ Apache tomcat como o container da web para executar a aplicação.
 O mavem como gerenciador de dependências.
 O PostgreSQL como banco de dados.
 E por fim o Heroku como servidor.
+
+
+![modelo de dominio](https://user-images.githubusercontent.com/57396516/169913980-6388c3c1-cbb9-4691-b2c2-b70c6ac1f3d3.png)
+![relacionamento](https://user-images.githubusercontent.com/57396516/169913983-826c35d2-be09-4db0-bf4b-97b8fa8678e9.png)
