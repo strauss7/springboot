@@ -1,7 +1,6 @@
 
-![ecommerce-1](https://user-images.githubusercontent.com/57396516/167865396-1cf70a01-6e12-4461-a8d6-fb07c25dc90d.jpg)
 
-# springboot
+# ecommerce
 
 Ola! Seja bem vindo ao meu projeto de webservice com springboot e jpa com hibernate.
 Este projeto representa um pequeno domínio de negócio de um ecommerce.
@@ -20,6 +19,9 @@ Apache tomcat como o container da web para executar a aplicação.
 O mavem como gerenciador de dependências.
 O PostgreSQL como banco de dados.
 E por fim o Heroku como servidor.
+
+É possível adicionar Usuários nesta API pelo Postman através do link do projeto ( https://yuji-javaspringboot1.herokuapp.com/ ) e pelo método POST
+e adicionando no endpoint "/users" os atributos "name", "email" e "phone".
 
 
 ![modelo de dominio](https://user-images.githubusercontent.com/57396516/169913980-6388c3c1-cbb9-4691-b2c2-b70c6ac1f3d3.png)
